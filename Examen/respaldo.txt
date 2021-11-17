@@ -1,0 +1,16 @@
+Se conectó: oswaldo
+Se conectó: josue
+Se conectó: david
+Se conectó: michelle
+michelle: alguien tiene la tarea de acendentes
+david: yo no
+josue: yo tampoco
+oswaldo: yo si dejen le mando el archivo
+oswaldo[archivo]: ascendente.txt
+josue: muchas gracias
+Se desconectó: josue
+david: gracias
+Se desconectó: david
+michelle: 
+Se desconectó: michelle
+Se desconectó: oswaldo
